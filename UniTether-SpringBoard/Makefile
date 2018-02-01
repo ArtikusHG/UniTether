@@ -1,4 +1,3 @@
-THEOS_DEVICE_IP = 192.168.1.132
 ARCHS = armv7 armv7s arm64
 include /Users/artikus/theos/makefiles/common.mk
 
