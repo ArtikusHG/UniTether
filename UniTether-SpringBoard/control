@@ -1,0 +1,9 @@
+Package: com.artikus.unitether
+Name: UniTether
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A semi-untether, I guess.
+Maintainer: ArtikusHG
+Author: ArtikusHG
+Section: Tweaks
