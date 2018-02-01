@@ -5,6 +5,6 @@ Calm down, it's a Substrate tweak. It replaces iOS shutdown functions with its o
 # Why "cold" though?
 When the iDevice's SpringBoard freezes, well... It **freezes**. And that's why it's "cold". And the "d" is actually "daemon" in short, Apple puts "d" at the end of all iOS daemons.
 # How do I compile it?
-Clone the repo, get root (either way with **sudo** or **su**) in the prompt, and run **make.sh**
+Clone the repo, get root (either way with **sudo** or **su**) in the prompt, and run **make package install** for **UniTether-SpringBoard**, and for **cold**, than install the packages to your device if compiling from a computer
 # I'm, um, a regular user. How do I install it?
 Add the **artikushg.github.io** repo to Cydia, and install the **UniTether** package.
